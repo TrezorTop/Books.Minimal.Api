@@ -85,7 +85,7 @@ public class LibraryEndpoints : IEndpoints
         if (!created)
             return Results.BadRequest(new List<ValidationFailure>(new List<ValidationFailure> { new("Isbn", "Already exists") }));
 
-        return Results.CreatedAtRoute("GetBook", new { isbn = book.Isbn }, book);
+        return Results.Created($"/{BaseRoute}/{book.Isbn}", book);
     }
 
     [Authorize]

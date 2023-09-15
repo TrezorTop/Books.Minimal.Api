@@ -8,7 +8,7 @@ public class BookValidator : AbstractValidator<Book>
     public BookValidator()
     {
         RuleFor(b => b.Isbn)
-            .Matches(@"(?=.{17}$)97(?:8|9)([ -])\d{1,5}\1\d{1,7}\1\d{1,6}\1\d$")
+            .Matches(@"^\d{3}-[1-9]\d{9}$")
             .WithMessage("Invalid ISBN-13 value");
 
         RuleFor(b => b.Title)
