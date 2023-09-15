@@ -21,7 +21,9 @@ public class BookService : IBookService
 
     public async Task<IEnumerable<Book>> SearchByTitleAsync(string title)
     {
-        return await _booksContext.Books.Where(b => b.Title.Contains(title)).ToListAsync();
+        var upperCaseTitle = title.ToUpper();
+
+        return await _booksContext.Books.Where(b => b.Title.ToUpper().Contains(upperCaseTitle)).ToListAsync();
     }
 
     public async Task<IEnumerable<Book>> GetAllAsync()
