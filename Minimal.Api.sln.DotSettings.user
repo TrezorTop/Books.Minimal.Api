@@ -1,22 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=310253e4_002Dace5_002D4833_002Da09d_002D6a5243629a99/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt; #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1910e969_002Daa08_002D400e_002D88c6_002Db2408574e7bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=396b9dd4_002D0870_002D4367_002D94e1_002Da70d4ee44f24/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71d1f553_002D8042_002D4d15_002D9ec8_002D19fd2115566d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0e636d9_002D16d8_002D4467_002D89fc_002D8333ba6e14e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt; #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2c31529_002D076c_002D4281_002D91e4_002D46e4d01f2907/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3687e2a_002Df8f6_002D4222_002Da8a3_002D791d30c09c61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eecf185e_002Daa5e_002D45e1_002Da5ea_002Dde4b34d0dd28/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Library.Api.Tests.Integration&amp;gt; #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\DEV\cs\Minimal.Api\Library.Api.Tests.Integration" Presentation="&amp;lt;Library.Api.Tests.Integration&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+	</wpf:ResourceDictionary>
